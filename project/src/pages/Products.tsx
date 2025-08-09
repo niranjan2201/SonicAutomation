@@ -43,7 +43,7 @@ const Products: React.FC = () => {
         "High-efficiency solar panels",
         "Grid-tie and off-grid solutions",
         "Performance monitoring",
-        "25-year warranty"
+        "5-year warranty"
       ],
       image: "https://dasenergie.com/wp-content/uploads/2024/07/residential-home-solar-system.jpg?auto=compress&cs=tinysrgb&w=800"
     },
