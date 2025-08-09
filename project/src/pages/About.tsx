@@ -47,7 +47,7 @@ const About: React.FC = () => {
           </div>
           <div className="bg-gradient-to-br from-blue-100 to-blue-200 rounded-lg p-8 animate-on-scroll animate-delay-300 hover-lift">
             <img
-              src="https://images.pexels.com/photos/9875456/pexels-photo-9875456.jpeg?auto=compress&cs=tinysrgb&w=800"
+              src="https://sonicautomation.in/images/resource/about.jpg?auto=compress&cs=tinysrgb&w=800"
               alt="Solar panels and renewable energy"
               className="w-full h-64 object-cover rounded-lg transition-transform duration-300 hover-scale"
             />

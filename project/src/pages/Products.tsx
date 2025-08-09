@@ -32,7 +32,7 @@ const Products: React.FC = () => {
         "Load management systems",
         "24/7 monitoring and support"
       ],
-      image: "https://images.pexels.com/photos/7859746/pexels-photo-7859746.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "https://electreefi.com/wp-content/uploads/2024/09/How-to-Set-Up-Public-EV-Charging-Stations-in-India-Costs-Requirements-and-Benefits.jpg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       icon: <Sun className="h-12 w-12 text-blue-600" />,
@@ -45,7 +45,7 @@ const Products: React.FC = () => {
         "Performance monitoring",
         "25-year warranty"
       ],
-      image: "https://images.pexels.com/photos/9875456/pexels-photo-9875456.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "https://dasenergie.com/wp-content/uploads/2024/07/residential-home-solar-system.jpg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       icon: <Battery className="h-12 w-12 text-blue-600" />,
@@ -58,7 +58,7 @@ const Products: React.FC = () => {
         "Backup power solutions",
         "Cost optimization algorithms"
       ],
-      image: "https://images.pexels.com/photos/9980456/pexels-photo-9980456.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "https://images.squarespace-cdn.com/content/v1/540e2e30e4b0a9fac1c138ac/64d29f10-43cd-4352-bac0-cf4b32e6db82/Basic%2BHybrid%2BSolar%2Bsystem%2Bdiagram.jpg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       icon: <Battery className="h-12 w-12 text-blue-600" />,
@@ -84,7 +84,7 @@ const Products: React.FC = () => {
         "Performance optimization",
         "Emergency repair services"
       ],
-      image: "https://images.pexels.com/photos/159160/solar-panel-array-power-sun-electricity-159160.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "https://www.aforenergy.com/wp-content/uploads/2025/02/8.webp?auto=compress&cs=tinysrgb&w=800"
     }
   ];
 
